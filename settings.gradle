@@ -1,0 +1,3 @@
+rootProject.name = 'orders'
+
+include 'domain-core'
