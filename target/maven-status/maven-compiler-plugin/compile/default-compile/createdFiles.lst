@@ -1,0 +1,8 @@
+com/storex/api/orders/core/Order.class
+com/storex/api/orders/ValueObject.class
+com/storex/api/orders/OrdersApplication.class
+com/storex/api/orders/persistence/OrderRepository.class
+com/storex/api/orders/Order.class
+com/storex/api/orders/core/OrderItem.class
+com/storex/api/orders/OrderController.class
+com/storex/api/orders/persistence/MongoTemplateConfig.class
