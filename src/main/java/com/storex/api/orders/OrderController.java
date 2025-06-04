@@ -16,7 +16,7 @@ public class OrderController {
 
   @GetMapping
   public String test() {
-    var order = new Order();
+    var order = new OrderDocument();
     this.orderRepository.save(order);
     return "Finish";
   }

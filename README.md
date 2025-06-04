@@ -1,4 +1,4 @@
-1. Subdomínio: `Orders`
+****1. Subdomínio: `Orders`
 
 - Bounded Context: `Order Management`
   - Linguagem Ubíqua: `Pedido`, `Item do Pedido`, `Status do Pedido`(Criado, Pago, Faturado, Enviado, Cancelado), `Endereço de Entrega`, `etc`...
