@@ -1,4 +1,4 @@
-package com.storex.api.orders;
+package com.storex.api.orders.core;
 
 import com.storex.api.orders.domain.Identifier;
 

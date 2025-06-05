@@ -1,5 +1,6 @@
-package com.storex.api.orders;
+package com.storex.api.orders.api;
 
+import com.storex.api.orders.persistence.OrderDocument;
 import com.storex.api.orders.persistence.OrderRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

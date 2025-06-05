@@ -1,4 +1,4 @@
-package com.storex.api.orders;
+package com.storex.api.orders.persistence;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

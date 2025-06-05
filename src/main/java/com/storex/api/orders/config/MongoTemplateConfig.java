@@ -1,4 +1,4 @@
-package com.storex.api.orders.persistence;
+package com.storex.api.orders.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

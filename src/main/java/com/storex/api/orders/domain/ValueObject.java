@@ -1,4 +1,4 @@
-package com.storex.api.orders;
+package com.storex.api.orders.domain;
 
 public abstract class ValueObject {
   /*

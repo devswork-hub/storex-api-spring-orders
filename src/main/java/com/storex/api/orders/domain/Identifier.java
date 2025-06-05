@@ -1,7 +1,5 @@
 package com.storex.api.orders.domain;
 
-import com.storex.api.orders.ValueObject;
-
 import java.util.Objects;
 
 public abstract class Identifier extends ValueObject {
