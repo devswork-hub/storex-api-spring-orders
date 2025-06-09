@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-OrdersApplication<meu-projeto>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.storex.api.orders.OrdersApplication",
+      "projectName": "meu-projeto",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

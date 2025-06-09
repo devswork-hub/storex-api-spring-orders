@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: development
+  r2dbc:
+    url: r2dbc:postgresql://your-application-development.bneslso0f2t3c.us-east-1.rds.amazonaws.com:5432/postgres?sslMode=require
+    username: postgres
+    password: postgres
+
+springdoc:
+  swagger-ui:
+    enabled: true
+    path: v1/your-application/swagger-ui.html
+  api-docs:
+    path: /v1/your-application-docs
